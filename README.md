@@ -43,7 +43,7 @@ mindmap
 | Network Security | Node Hardening, Consensus Mechanism Analysis |
 
 ## 🌱 Current Learning Goals
-- Exploring Polkadot ecosystem and parachain development
+- Exploring Open Network ecosystem and SVM development
 - Deepening knowledge in zero-knowledge proofs and their applications
 - Studying quantum computing's potential impact on blockchain technology
 
