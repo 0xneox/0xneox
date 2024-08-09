@@ -1,6 +1,6 @@
-# Nectariferous
+# Binarybodhi
 
-> Blockchain Developer | Ethical Hacker | Innovator
+> Blockchain Dev | Ethical Hacker | Dapp Dev
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&width=435&lines=Exploring+the+Blockchain+Frontier;Securing+the+Digital+Realm;Innovating+for+the+Future)](https://git.io/typing-svg)
 
@@ -49,13 +49,13 @@ mindmap
 
 ## 🤝 Connect & Collaborate
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nectariferous)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nectariferous)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xneox)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/binarybodhi)
 
 ## 💖 Support My Work
 
 If you find value in my projects or want to support my learning journey:
 
 ```
-ETH: 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869
+ETH: 0x1AFD4B41FD1fa8060037e01123f27C68CaD2D5e7
 ```
