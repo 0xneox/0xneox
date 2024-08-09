@@ -16,7 +16,7 @@
 
 ```mermaid
 mindmap
-  root((Nectariferous))
+  root((Binarybodhi))
     Blockchain Mastery
       Smart Contract Development
       DeFi Innovations
