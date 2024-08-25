@@ -35,7 +35,7 @@
 
 ### 🌠Professional Journey
 
-- Timeline
+
 - 2014 : Began as a web developer
      - Delved into ethical hacking & vulerability assestment
 - 2015 : Introduced to Bitcoin
@@ -43,9 +43,13 @@
 - 2016 : Completely shifted to Web3 
       - Immersed in cryptocurrency development
 - 2017 : Founded web3 research & development company 
-- 2016-2024 : Collaborated with 30+ individuals and firms
-     - : Conducted seminars and educational sessions
-- 2022 : Shifted focus to perennial philosophy and research
+- 2016-2022 : Collaborated with 30+ individuals and firms
+      -  Conducted seminars and educational sessions
+      -  Started HFT Quant Trading
+      -  Flipping Altcoins, NFTs, ENS
+      -  More into zk, Layer2, privacy coins
+- 2022 : Took a break from crypto and development
+     - Shifted focus to perennial philosophy and research
 - 2024 : Returned to active development and crypto
 
 ### 🌠 Aspirations and Current Focus
