@@ -37,10 +37,12 @@
 
 - Timeline
 - 2014 : Began as a web developer
-     - : Delved into ethical hacking
-     - : Introduced to Bitcoin
-     - : Founded own full-stack development company
-     - : Immersed in cryptocurrency development
+     - Delved into ethical hacking & vulerability assestment
+- 2015 : Introduced to Bitcoin
+      -  Started to contribute Full time towards Bitcoin revolution
+- 2016 : Completely shifted to Web3 
+      - Immersed in cryptocurrency development
+- 2017 : Founded web3 research & development company 
 - 2016-2024 : Collaborated with 30+ individuals and firms
      - : Conducted seminars and educational sessions
 - 2022 : Shifted focus to perennial philosophy and research
