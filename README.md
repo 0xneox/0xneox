@@ -44,10 +44,10 @@
       - Immersed in cryptocurrency development
 - 2017 : Founded web3 research & development company 
 - 2016-2022 : Collaborated with 30+ individuals and firms
-      -  Conducted seminars and educational sessions
-      -  Started HFT Trading and Future Trading
-      -  Flipping Altcoins, NFTs, ENS
-      -  More into zk, Layer2, privacy coins
+      - Conducted seminars and educational sessions
+      - Started HFT Trading and Future Trading
+      - Flipping Altcoins, NFTs, ENS
+      - More into zk, Layer2, privacy coins
 - 2022 : Took a break from crypto and development
      - Shifted focus to perennial philosophy and research
 - 2024 : Returned to active development and crypto
