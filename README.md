@@ -14,6 +14,17 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### Frameworks:
+<!--  - styling -->
+<img align="left" alt="BootStrap" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
+<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+
+<img align="left" alt="Tailwind" width="30px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
+<img align="left" alt="RoR" width="35px" src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" />
+<img align="left" alt="React" width="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" />
+<img align="left" alt="Redux" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
+
 ## 🌠Professional Journey
 
 - Timeline
