@@ -1,4 +1,4 @@
-# neohex
+### neohex
 
 - Veteran Blockchain Developer | Security Researcher | Philosophical Explorer
 
@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&width=435&lines=Exploring+the+Blockchain+Frontier;Securing+the+Digital+Realm;Innovating+for+the+Future)](https://git.io/typing-svg)
 
-## 🧬 Core Skills
+### 🧬 Core Skills
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -33,7 +33,7 @@
 <!-- ### Skills: -->
 
 
-## 🌠Professional Journey
+### 🌠Professional Journey
 
 - Timeline
    - 2014 : Began as a web developer
@@ -46,7 +46,7 @@
     -2022 : Shifted focus to perennial philosophy and research
     -2024 : Returned to active development and crypto
 
-## 🌠 Aspirations and Current Focus
+### 🌠 Aspirations and Current Focus
 ```mermaid
 mindmap
   root((neohex))
@@ -78,7 +78,7 @@ mindmap
       Psychedelic Research
 ```
 
-## 🛡️ Notable Projects and Achievements
+### 🛡️ Notable Projects and Achievements
 
 - Developed smart contracts for 7+ cryptocurrencies
 - Designed and implemented orderbook and matching engine for a cryptocurrency exchange
@@ -89,36 +89,36 @@ mindmap
 - Collaborated closely with 3 NFT projects
 - Developed tax computation software for crypto transactions
 
-## 🧘 Personal Philosophy and Interests
+### 🧘 Personal Philosophy and Interests
 
 -  Avid explorer of consciousness, life, and death
 -  Practitioner of meditation, yoga, and psychedelic exploration
 -  Passionate about Vedas, Upanishads, Buddhist and Zen traditions
 -  Inspired by figures such as Ramana Maharshi, Alan Watts, Terence McKenna, Jack Dorsey, Vitalik Buterin, and Satoshi Nakamoto
 
-## 🌱 Current Learning Goals
+### 🌱 Current Learning Goals
 - Exploring Open Network ecosystem and SVM development
 - Deepening knowledge in zero-knowledge proofs and their applications
 - Studying quantum computing's potential impact on blockchain technology
 
-## 📝 Writing and Research
+### 📝 Writing and Research
 
 - Occasional blogger since 2014, covering technical and spiritual matters
 - Ongoing research in quantum analysis and blockchain technologies
 - Exploring the intersection of blockchain, consciousness, and decentralized systems
 
-## 🌄 Lifestyle
+### 🌄 Lifestyle
 
 - Digital nomad, alternating between the Himalayas, Dubai, and Bangalore
 - Social introvert, finding balance in spirituality and technology
 - Open source prod, Pro crypto, Privacy and Techno geek 
 
-## 🤝 Connect & Collaborate
+### 🤝 Connect & Collaborate
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xneox)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/binarybodhi)
 
-## 💖 Support My Work
+### 💖 Stats
 
 ![]([https://techierank.com/](https://techierank.com/#0xneox/b25857cb6a917122d5c074736e3622ae))
 
@@ -128,9 +128,3 @@ mindmap
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xneox&theme=dark&layout=compact&count_private=true)](https://github.com/0xneox/github-readme-stats)
 
 
-
-If you find value in my projects or want to support my learning journey:
-
-```
-ETH: 0x1AFD4B41FD1fa8060037e01123f27C68CaD2D5e7
-```
