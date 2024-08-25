@@ -30,7 +30,7 @@
 ## 🌠 Aspirations and Current Focus
 
 mindmap
-  root((neohex))
+  root((binarybodhi))
     Blockchain Innovation
       Cryptocurrency Development
       Smart Contract Engineering
