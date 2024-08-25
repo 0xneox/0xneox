@@ -120,7 +120,7 @@ mindmap
 
 ## 💖 Support My Work
 
-![](https://techierank.com/#pountzas/3791299c05f786025e2f33827c25e5b0)
+![](https://techierank.com/)
 
 ![Neohex's GitHub stats](https://github-readme-stats.vercel.app/api?username=pountzas&theme=midnight-purple&show_icons=true&count_private=true)
 <br>
