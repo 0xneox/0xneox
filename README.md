@@ -122,10 +122,10 @@ mindmap
 
 ![]([https://techierank.com/](https://techierank.com/#0xneox/b25857cb6a917122d5c074736e3622ae))
 
-![Neohex's GitHub stats](https://github-readme-stats.vercel.app/api?username=pountzas&theme=midnight-purple&show_icons=true&count_private=true)
+![Neohex's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xneox&theme=midnight-purple&show_icons=true&count_private=true)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pountzas&theme=dark&layout=compact&count_private=true)](https://github.com/0xneox/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xneox&theme=dark&layout=compact&count_private=true)](https://github.com/0xneox/github-readme-stats)
 
 
 
