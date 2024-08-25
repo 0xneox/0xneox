@@ -30,7 +30,7 @@
 ## 🌠 Aspirations and Current Focus
 ```mermaid
 mindmap
-  root((binarybodhi))
+  root((neohex))
     Blockchain Innovation
       Cryptocurrency Development
       Smart Contract Engineering
