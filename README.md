@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🌠Professional Journey
-
+```mermaid
 Timeline
     2014 : Began as a web developer
          : Delved into ethical hacking
@@ -26,7 +26,7 @@ Timeline
                : Conducted seminars and educational sessions
     2022 : Shifted focus to perennial philosophy and research
     2024 : Returned to active development and crypto
-
+```mermaid
 ## 🌠 Aspirations and Current Focus
 
 ```mermaid
