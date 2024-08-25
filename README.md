@@ -58,6 +58,18 @@ mindmap
       Eastern Philosophy Integration
       Psychedelic Research
 ```
+
+🛡️ Notable Projects and Achievements
+
+- Developed smart contracts for 7+ cryptocurrencies
+- Designed and implemented orderbook and matching engine for a cryptocurrency exchange
+- Created Proof of Concept for IQVIA, integrating IPFS, Ethereum, and BigchainDB
+- Authored 4 whitepapers for blockchain projects
+- Conducted on-chain analysis for 10+ projects
+- Provided investment advice to high-net-worth individuals
+- Collaborated closely with 3 NFT projects
+- Developed tax computation software for crypto transactions
+
 ## 🛡️ Blockchain Security Focus
 | Area | Skills |
 |------|--------|
