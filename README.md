@@ -1,6 +1,7 @@
-# Binarybodhi
+# neohex
 
-> Blockchain Dev | Ethical Hacker | Dapp Dev
+Veteran Blockchain Developer | Security Researcher | Philosophical Explorer
+Bridging the realms of technology, consciousness, and decentralized innovation
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&width=435&lines=Exploring+the+Blockchain+Frontier;Securing+the+Digital+Realm;Innovating+for+the+Future)](https://git.io/typing-svg)
 
