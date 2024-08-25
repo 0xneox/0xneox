@@ -14,6 +14,19 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## 🌠Professional Journey
+
+Timeline
+    2014 : Began as a web developer
+         : Delved into ethical hacking
+    2015 : Introduced to Bitcoin
+    2016 : Founded own full-stack development company
+         : Immersed in cryptocurrency development
+    2016-2024 : Collaborated with 30+ individuals and firms
+               : Conducted seminars and educational sessions
+    2022 : Shifted focus to perennial philosophy and research
+    2024 : Returned to active development and crypto
+
 ## 🌠 Aspirations and Current Focus
 
 ```mermaid
