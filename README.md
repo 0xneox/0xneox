@@ -28,7 +28,7 @@
     -2024 : Returned to active development and crypto
 
 ## 🌠 Aspirations and Current Focus
-
+```mermaid
 mindmap
   root((binarybodhi))
     Blockchain Innovation
@@ -57,7 +57,7 @@ mindmap
       Consciousness Studies
       Eastern Philosophy Integration
       Psychedelic Research
-
+```
 ## 🛡️ Blockchain Security Focus
 | Area | Skills |
 |------|--------|
