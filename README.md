@@ -19,10 +19,10 @@
 - Timeline
    - 2014 : Began as a web developer
    -     : Delved into ethical hacking
-    -2015 : Introduced to Bitcoin
-    -2016 : Founded own full-stack development company
+     -          : Introduced to Bitcoin
+     -          : Founded own full-stack development company
      -    : Immersed in cryptocurrency development
-    -2016-2024 : Collaborated with 30+ individuals and firms
+     -          2016-2024 : Collaborated with 30+ individuals and firms
      -          : Conducted seminars and educational sessions
     -2022 : Shifted focus to perennial philosophy and research
     -2024 : Returned to active development and crypto
