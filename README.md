@@ -29,25 +29,34 @@
 
 ## 🌠 Aspirations and Current Focus
 
-```mermaid
 mindmap
-  root((Binarybodhi))
-    Blockchain Mastery
-      Smart Contract Development
-      DeFi Innovations
-      Layer 2 Solutions
-      Cross-chain Interoperability
-    Ethical Hacking
-      Penetration Testing
+  root((neohex))
+    Blockchain Innovation
+      Cryptocurrency Development
+      Smart Contract Engineering
+      Tokenomics Design
+      Protocol Architecture
+      Whitepaper Creation
+    Cybersecurity
+      Ethical Hacking
+      Vulnerability Assessment
       Blockchain Security Audits
-      Zero-Knowledge Proofs
-      Quantum-resistant Cryptography
     Full-Stack Development
-      Web3 Integration
-      Scalable Architecture
+      Web2 and Web3 Integration
+      DApp Development
       UI/UX Design
-      Decentralized Identity Solutions
-```
+    Financial Technology
+      Orderbook and Matching Engine Development
+      High-Frequency Trading Bots
+      Quantitative Analysis
+    Blockchain Education
+      Developer Training
+      Public Speaking and Seminars
+      Decentralization Advocacy
+    Philosophical Exploration
+      Consciousness Studies
+      Eastern Philosophy Integration
+      Psychedelic Research
 
 ## 🛡️ Blockchain Security Focus
 | Area | Skills |
