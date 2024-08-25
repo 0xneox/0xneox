@@ -18,7 +18,7 @@
 
 - Timeline
    - 2014 : Began as a web developer
-    -     : Delved into ethical hacking
+   -     : Delved into ethical hacking
     -2015 : Introduced to Bitcoin
     -2016 : Founded own full-stack development company
      -    : Immersed in cryptocurrency development
