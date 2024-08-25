@@ -47,7 +47,7 @@
       - Conducted seminars and educational sessions <br>
       - Started HFT Trading and Future Trading <br>
       - Flipping Altcoins, NFTs, ENS
-      - More into zk, Layer2, privacy coins
+      - Shifted into zk, lightning, Layer2, privacy coins
 - 2022 : Took a break from crypto and development
      - Shifted focus to perennial philosophy and research
 - 2024 : Returned to active development and crypto
