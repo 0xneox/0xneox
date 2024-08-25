@@ -70,13 +70,12 @@ mindmap
 - Collaborated closely with 3 NFT projects
 - Developed tax computation software for crypto transactions
 
-## 🛡️ Blockchain Security Focus
-| Area | Skills |
-|------|--------|
-| Smart Contract Auditing | Vulnerability Assessment, Best Practices Implementation |
-| DeFi Security | Liquidity Pool Analysis, Flash Loan Attack Prevention |
-| Wallet Security | Key Management, Hardware Wallet Integration |
-| Network Security | Node Hardening, Consensus Mechanism Analysis |
+🧘 Personal Philosophy and Interests
+
+-  Avid explorer of consciousness, life, and death
+-  Practitioner of meditation, yoga, and psychedelic exploration
+-  Passionate about Vedas, Upanishads, Buddhist and Zen traditions
+-  Inspired by figures such as Ramana Maharshi, Alan Watts, Terence McKenna, Jack Dorsey, Vitalik Buterin, and Satoshi Nakamoto
 
 ## 🌱 Current Learning Goals
 - Exploring Open Network ecosystem and SVM development
