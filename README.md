@@ -59,7 +59,7 @@ mindmap
       Psychedelic Research
 ```
 
-🛡️ Notable Projects and Achievements
+## 🛡️ Notable Projects and Achievements
 
 - Developed smart contracts for 7+ cryptocurrencies
 - Designed and implemented orderbook and matching engine for a cryptocurrency exchange
@@ -70,7 +70,7 @@ mindmap
 - Collaborated closely with 3 NFT projects
 - Developed tax computation software for crypto transactions
 
-🧘 Personal Philosophy and Interests
+## 🧘 Personal Philosophy and Interests
 
 -  Avid explorer of consciousness, life, and death
 -  Practitioner of meditation, yoga, and psychedelic exploration
@@ -81,6 +81,18 @@ mindmap
 - Exploring Open Network ecosystem and SVM development
 - Deepening knowledge in zero-knowledge proofs and their applications
 - Studying quantum computing's potential impact on blockchain technology
+
+## 📝 Writing and Research
+
+- Occasional blogger since 2014, covering technical and spiritual matters
+- Ongoing research in quantum analysis and blockchain technologies
+- Exploring the intersection of blockchain, consciousness, and decentralized systems
+
+## 🌄 Lifestyle
+
+- Digital nomad, alternating between the Himalayas, Dubai, and Bangalore
+- Social introvert, finding balance in spirituality and technology
+- Open source prod, Pro crypto, Privacy and Techno geek 
 
 ## 🤝 Connect & Collaborate
 
