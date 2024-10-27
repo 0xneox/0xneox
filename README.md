@@ -1,6 +1,6 @@
  ### neohex
 
-- Veteran Blockchain Developer | Security Researcher | Philosophical Explorer
+- Blockchain Developer | Security Researcher | Philosophical Explorer
 
 - Bridging the realms of technology, consciousness, and decentralized innovation
 
