@@ -52,37 +52,7 @@
       Shifted focus to perennial philosophy and research
 - 2024 : Returned to active development and crypto
 
-### 🌠 Aspirations and Current Focus
-```mermaid
-mindmap
-  root((neohex))
-    Blockchain Innovation
-      Cryptocurrency Development
-      Smart Contract Engineering
-      Tokenomics Design
-      Protocol Architecture
-      Whitepaper Creation
-    Cybersecurity
-      Ethical Hacking
-      Vulnerability Assessment
-      Blockchain Security Audits
-    Full-Stack Development
-      Web2 and Web3 Integration
-      DApp Development
-      UI/UX Design
-    Financial Technology
-      Orderbook and Matching Engine Development
-      High-Frequency Trading Bots
-      Quantitative Analysis
-    Blockchain Education
-      Developer Training
-      Public Speaking and Seminars
-      Decentralization Advocacy
-    Philosophical Exploration
-      Consciousness Studies
-      Eastern Philosophy Integration
-      Psychedelic Research
-```
+
 
 ### 🛡️ Notable Projects and Achievements
 
